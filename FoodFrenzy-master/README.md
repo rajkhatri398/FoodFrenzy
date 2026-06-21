@@ -33,12 +33,12 @@ Before running this project, ensure you have the following installed:
 ## Setup and Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repository-url/FoodSta.git
+    git clone https://github.com/your-repository-url/FoodFrenzy.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd FoodSta
+    cd FoodFrenzy
     ```
 
 3. Configure MySQL Database:
